@@ -2,8 +2,6 @@
 
 This project is a Shopping List application built using React Native that allows users to add, view, edit, and delete their shopping items from the list. It includes React native concepts such as component-based architecture, state management, prop drilling, and user interaction.
 
-updating readme documentation later..
-
 ## Features
 
 - Add Items: Users can add items to their shopping list
@@ -24,13 +22,13 @@ updating readme documentation later..
 
 ## Gallery
 
-Android view 
+Android view
 ![Android image 1](./img/android1.jpg)
 ![Android image 2](./img/android2.jpg)
 ![Android image 3](./img/android3.jpg)
 
 iPhone view
-![iPhone image 1](./img/iPhone1.jfif)
+![iPhone image 1](./img/iphone1.jfif)
 ![iPhone image 2](./img/iphone2.jfif)
 ![iPhone image 3](./img/iphone3.jfif)
 
